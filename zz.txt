@@ -1,0 +1,7 @@
+Option 4: Continue Using the Free Domain
+
+Since your website is already on Vercel, you can keep using the free URL, for example:
+
+https://plumbing-sand-ten.vercel.app/
+
+For a university project or portfolio, this is completely acceptable and costs nothing.

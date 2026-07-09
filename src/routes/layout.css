@@ -1,0 +1,18 @@
+@import 'tailwindcss';
+
+@theme {
+	--color-primary: #1e6b5a;
+	--color-primary-dark: #155347;
+	--color-accent: #4dd9ac;
+	--color-surface: #f7f6f2;
+	--color-text: #1a2314;
+	--color-text-muted: #6b7280;
+	--color-border: #e5e7eb;
+}
+
+body {
+	font-family: 'Inter', 'Noto Sans Khmer', system-ui, sans-serif;
+	color: var(--color-text);
+	background: var(--color-surface);
+	min-height: 100vh;
+}
